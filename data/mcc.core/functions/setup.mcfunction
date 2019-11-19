@@ -20,3 +20,5 @@ scoreboard objectives add mcc.deathtime minecraft.custom:minecraft.time_since_de
 scoreboard objectives add mcc.lastscore dummy
 scoreboard objectives add mcc.totalscore dummy
 scoreboard objectives add mcc.basescore dummy
+
+scoreboard objectives add mcc.temp dummy
